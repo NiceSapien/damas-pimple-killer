@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to pimplekiller.surge.sh
-        uses: dswistowski/surge-sh-action@v1
+        uses: dswistowski/surge-sh-action@v.1.0.3
         with:
           domain: 'pimplekiller.surge.sh'
           project: '.'
