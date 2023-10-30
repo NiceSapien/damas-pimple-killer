@@ -1,16 +1,17 @@
-name: Deploy to surge.sh
+name: Deploy Website
 
-on: push
+on: [push]
 
 jobs:
-  deploy:
-    name: Deploy
+  build:
     runs-on: ubuntu-latest
+    name: Deploying to surge
+    
     steps:
-      - name: Deploy to pimplekiller.surge.sh
-        uses: dswistowski/surge-sh-action@v.1.0.3
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          domain: "pimplekiller.surge.sh"
-          project: "./"
-          login: ${{ secrets.surge_login }}
-          token: ${{ secrets.surge_token }}
+          node-version: 18
+      - run: npm install -g surge
+      - run: surge ./ ${{ secrets.SURGE_DOMAIN }} --token ${{ secrets.SURGE_TOKEN }}
+
