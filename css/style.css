@@ -1,0 +1,21 @@
+html {
+    font-family: 'Gabarito', sans-serif;
+    color: white;
+    background-color: #212121;
+    background-image: url("");
+    background-size: cover;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    border-width: 0px;
+}
+    h1 {
+    font-size: 3em;
+    }
+    p {
+    font-size: 1.5em;
+    }
