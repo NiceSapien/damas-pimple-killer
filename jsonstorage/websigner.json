@@ -1,0 +1,220 @@
+[
+  {
+    "code": "$$data$$",
+    "name": "Add source directly",
+    "color": "#4caf50",
+    "cusbute": "no",
+    "databute": "",
+    "classbute": "no",
+    "extrabute": ""
+  },
+  {
+    "code": "<br/>",
+    "name": "br",
+    "color": "#ffc107",
+    "cusbute": "no",
+    "databute": "no",
+    "classbute": "no",
+    "extrabute": ""
+  },
+  {
+    "code": "<hr $$ex$$/>",
+    "name": "hr",
+    "color": "#ffc107",
+    "cusbute": "no",
+    "databute": "no",
+    "classbute": "no",
+    "extrabute": "size"
+  },
+  {
+    "end": "</div>",
+    "code": "<div class=\"$$class$$\" $$cus$$>",
+    "name": "div",
+    "color": "#ffc107",
+    "cusbute": "",
+    "databute": "no",
+    "name_end": "div",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<h1 class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</h1>",
+    "name": "h1",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<h2 class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</h2>",
+    "name": "h2",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<h3 class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</h3>",
+    "name": "h3",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<h4 class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</h4>",
+    "name": "h4",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<h5 class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</h5>",
+    "name": "h5",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<h6 class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</h6>",
+    "name": "h6",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<p class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</p>",
+    "name": "p",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<em class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</em>",
+    "name": "em",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<b class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</b>",
+    "name": "b",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<i class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</i>",
+    "name": "i",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<small class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</small>",
+    "name": "small",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<u class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</u>",
+    "name": "u",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<strike class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</strike>",
+    "name": "strike",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<li class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</li>",
+    "name": "li",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<marquee class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</marquee>",
+    "name": "marquee",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": "bgcolor"
+  },
+  {
+    "code": "<a class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</a>",
+    "name": "a",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": "href"
+  },
+  {
+    "code": "<center class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</center>",
+    "name": "center",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": ""
+  },
+  {
+    "code": "<font class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</font>",
+    "name": "font",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": "face"
+  },
+  {
+    "code": "<img class=\"$$class$$\" $$ex$$ $$cus$$>",
+    "name": "img",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "no",
+    "classbute": "",
+    "extrabute": "src"
+  },
+  {
+    "code": "<button class=\"$$class$$\" $$ex$$ $$cus$$>$$data$$</button>",
+    "name": "button",
+    "color": "#3f51b5",
+    "cusbute": "",
+    "databute": "",
+    "classbute": "",
+    "extrabute": "onclick"
+  }
+]
